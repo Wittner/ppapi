@@ -1,11 +1,13 @@
 {
-  "posts": [
+  "credentials": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "732ed139-0ca6-4915-a699-b6c04d04af10",
+      "clientId": "1d93346f-5969-428a-86b8-cf91fb8d55c3",
+      "qrId": "fcc9f0a9-a7aa-4db1-be53-771dfefbf930",
+      "ticketId": "4bb5ce1d-ddc7-43d9-8538-00ac507f625e"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "pp"
   }
 }
