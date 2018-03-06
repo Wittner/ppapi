@@ -1,13 +1,28 @@
 {
-  "credentials": [
+  "users": [
     {
+      "email": "mike@irelandathome.com",
+      "password": "mike",
       "id": "732ed139-0ca6-4915-a699-b6c04d04af10",
       "clientId": "1d93346f-5969-428a-86b8-cf91fb8d55c3",
       "qrId": "fcc9f0a9-a7aa-4db1-be53-771dfefbf930",
       "ticketId": "4bb5ce1d-ddc7-43d9-8538-00ac507f625e"
+    },
+    {
+      "email": "dan@core.com",
+      "password": "dan",
+      "id": "6e5fda76-083b-4f55-bb2f-d73213a90e47",
+      "clientId": "55f88c82-a462-4b6c-b081-61bea2c59202",
+      "qrId": "88727ee6-900e-4959-b406-1db4187e8775",
+      "ticketId": "acfbf7b8-c09e-4d53-a663-66757e4356ce"
+    },
+    {
+      "email": "jordan@core.com",
+      "password": "jordan",
+      "id": "04478131-7945-4887-869b-8360ff3d7a58",
+      "clientId": "03337fff-855c-4b39-9b12-d8501c5ce5fa",
+      "qrId": "194fe12c-57e1-4ae8-923b-20830f469012",
+      "ticketId": "f8c558b0-517f-46f0-abd4-90e46cc7b1b1"
     }
-  ],
-  "profile": {
-    "name": "pp"
-  }
+  ]
 }
